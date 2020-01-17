@@ -1,6 +1,9 @@
 # Byte-compiled / optimized /DLL files
 __pycache__/
 
+# Emacs cache
+*~
+
 # Unit test / coverage reports
 .pytest_cache
 .coverage
