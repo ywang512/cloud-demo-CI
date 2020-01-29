@@ -1,2 +1,3 @@
-# ids690-cloud-computing
-IDS690 - Cloud Computing at Scale
+# cloud-demo-CI
+
+A simple demo for Continuous Integration using CircleCI
